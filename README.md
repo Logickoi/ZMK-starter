@@ -9,3 +9,5 @@ Step 1: learn ZMK
 Step 0.9: learn (?) Github
 
 Step 0.8: learn (?) git (??)
+
+Sub-step 0.8-minus-N: double check how this entire versioning thing works
